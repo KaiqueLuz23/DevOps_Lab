@@ -1,0 +1,5 @@
+/ Criar chave SSH 
+ ssh-keygen
+
+ / da um 'cat' no diretorio 
+cat /home/cabox/.ssh/id_rsa.pub
